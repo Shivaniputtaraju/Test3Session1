@@ -10,3 +10,4 @@ enter the numerator 1 and 2,denominator 1 and 2
 (gdb) n
 33    return 0;
 (gdb) 
+
